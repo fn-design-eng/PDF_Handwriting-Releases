@@ -1,0 +1,49 @@
+{
+  "version": "0.7.0",
+  "build_source_commit": "da723a19def64e38cfb8516d22566d8c4ff56aaf",
+  "packaging_commit": "9448ec270a2471721fbe3247c9e67ed872c7045a",
+  "approved_dev_source": "03c277d",
+  "exe_sha256": "420F8CDBA81922AD970525EAABCD3F6AC142CACB572544AAD65948251FF6A556",
+  "pdfium_sha256": "83BEDBA13A9A5226AC888147D7BBC87B886228C717B75F975FD225F15FC20563",
+  "file_count": 843,
+  "assets": [
+    {
+      "name": "PDF_Handwriting_0.7.0_x64_portable_github.zip",
+      "bytes": 16585935,
+      "sha256": "2A3E4824E9DB06D63EE0AC540515736972EFEE3EF816D83592BE22A60A8B9084"
+    },
+    {
+      "name": "PDF_Handwriting_0.7.0_x64_portable_github.7z",
+      "bytes": 11036993,
+      "sha256": "D7B8402C53E0002DF88F323A9E603CB1FA1B55889D61F5878AEA256635597828"
+    },
+    {
+      "name": "SHA256SUMS.txt",
+      "bytes": 225,
+      "sha256": "F8AEAD8F71826257C7DA533E8126686C50F64090F7C9D07A5F46F247BD3C4765"
+    },
+    {
+      "name": "PACKAGING_RECORD.json",
+      "bytes": 144584,
+      "sha256": "D6DD3D43F13878C05029D1CBA1B9BE85F1C12705F4303ED704953B62C4D16362"
+    },
+    {
+      "name": "RELEASE_SUMMARY.txt",
+      "bytes": 900,
+      "sha256": "B85F8984267A2A08458EA90F4D2486292A79423B8D7090B5C6FAE2A406758D4E"
+    }
+  ],
+  "source_publication": "Development source remains private; covered third-party sources and modified SVG vendor sources accompany the package.",
+  "validation": {
+    "frontend_passed": 1583,
+    "frontend_skipped": 1,
+    "rust_passed": 139,
+    "rust_ignored": 20,
+    "archives_all_files_verified": true,
+    "binary_local_path_scan": true,
+    "diagnostic_scan": true,
+    "isolated_empty_window_startup_and_normal_close": true,
+    "native_input_automation": false,
+    "full_native_pdf_ui_retest": false
+  }
+}
