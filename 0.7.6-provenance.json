@@ -1,0 +1,36 @@
+{
+  "version": "0.7.6",
+  "build_source_commit": "fd1d44c7c05f1b8c8c031c6892b95916665dedb2",
+  "packaging_commit": "8b58a7b6c86196a088c2a507d85a1474acd26f2c",
+  "reviewed_source": "d0b1bce2",
+  "offline_help_source": "46ba5b2a9dbcfd47f6b39ce1e12a98ea83650ef8",
+  "exe_sha256": "75A24C1EE4487A64F89CDEEBEDBD31BE79FC0C33644217E3698B4924791F508C",
+  "file_count": 994,
+  "assets": [
+    {
+      "name": "PACKAGING_RECORD.json",
+      "bytes": 169910,
+      "sha256": "3EC54125B3CBD5E572D7BEC0AA4157370C1BEB10A9FF159DD84D21C3099F98C8"
+    },
+    {
+      "name": "PDF_Handwriting_0.7.6_x64_portable_github.7z",
+      "bytes": 58968034,
+      "sha256": "C88C430DAA5BFD1E3CCC9408421E06D4DCB746B7E8A56C5407FEC65E6A051A84"
+    },
+    {
+      "name": "PDF_Handwriting_0.7.6_x64_portable_github.zip",
+      "bytes": 74834147,
+      "sha256": "EE0AE89E0E87534C1C64E768B82E736606448E7559D8AE9A14346EFEB2357E98"
+    },
+    {
+      "name": "RELEASE_SUMMARY.txt",
+      "bytes": 306,
+      "sha256": "AB6ED12E0BA5A7B84BB279515B3ED371EF6A0117DF3835BBFB40B6A5CE508E25"
+    },
+    {
+      "name": "SHA256SUMS.txt",
+      "bytes": 225,
+      "sha256": "40D91EC21018E7AC9D1DD7431C7D6CC9657A58DFAA7B858CA6E950A79EBC5BC7"
+    }
+  ]
+}
